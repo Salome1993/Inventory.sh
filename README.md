@@ -1,0 +1,2 @@
+# Inventory.sh
+CREATE AN INVENTORY CODE
